@@ -6057,36 +6057,40 @@
     ]
   },
   "packageFolders": {
-    "/home/nunumarie3000/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\vmari\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11Tests/Class11Tests.csproj",
+      "projectUniqueName": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class11Files\\Class11Tests\\Class11Tests.csproj",
       "projectName": "Class11Tests",
-      "projectPath": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11Tests/Class11Tests.csproj",
-      "packagesPath": "/home/nunumarie3000/.nuget/packages/",
-      "outputPath": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11Tests/obj/",
+      "projectPath": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class11Files\\Class11Tests\\Class11Tests.csproj",
+      "packagesPath": "C:\\Users\\vmari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class11Files\\Class11Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/home/nunumarie3000/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\vmari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11/Class11.csproj": {
-              "projectPath": "/home/nunumarie3000/projects/courses/Code401/CodeChallenges_Data-Structures-and-Algorithms/Class11Files/Class11/Class11.csproj"
+            "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class11Files\\Class11\\Class11.csproj": {
+              "projectPath": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class11Files\\Class11\\Class11.csproj"
             }
           }
         }
@@ -6138,7 +6142,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

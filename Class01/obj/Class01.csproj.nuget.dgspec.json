@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj": {}
+    "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj": {
+    "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
+        "projectUniqueName": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
         "projectName": "Class01",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
+        "projectPath": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\Class01.csproj",
         "packagesPath": "C:\\Users\\vmari\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\nunumarie3000\\projects\\courses\\Code401\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\obj\\",
+        "outputPath": "C:\\Users\\vmari\\source\\repos\\CodeChallenges_Data-Structures-and-Algorithms\\Class01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
